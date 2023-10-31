@@ -1,0 +1,6 @@
+[submodule "SPED"]
+	path = SPED
+	url = ./SPED
+[submodule "XMLBuilder"]
+	path = XMLBuilder
+	url = ./XMLBuilder/
